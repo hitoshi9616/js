@@ -1,7 +1,3 @@
-alert(1 + 3)
+let promptStr = prompt('何か好きな文字を入力してください。');
 
-alert(6 - 1)
-
-alert(4 * 7)
-
-alert(20 / 2)
+alert(promptStr);
